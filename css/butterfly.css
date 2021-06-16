@@ -5,7 +5,7 @@
 }
 /* 博主昵称颜色 */
 .author-info__name {
-    color: #ff7242;
+    color: #291fb679;
 }
 /* 评论框  */
 
@@ -64,10 +64,10 @@
     background: transparent !important;
 }
 #footer-wrap a {
-    color: #00c4b6;
+    color: #3455e7be;
 }
 /*页脚自定义字段字体颜色*/
 /* 也就是配置文件里的footer_custom_text */
 .footer_custom_text {
-    color: #00c4b6;
+    color: #3455e7be;
 }
